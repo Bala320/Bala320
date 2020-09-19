@@ -22,6 +22,10 @@ Here are some ideas to get you started:
 <h1> My Stats</h1>
 </br>
 
-![alt text](https://github-readme-stats-naveen.vercel.app/api?username=Bala-Subramaniyan
-&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=45,0366d6,c5f015)
+
+![alt text](https://github-readme-stats-naveen.vercel.app/api?
+username=BalaSubramaniyan&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=45,0366d6,c5f015)
+
+<!---Bala-Subramaniyan -->
+
 

@@ -10,8 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything 
 - 📫 How to reach me: facebook
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: coding till you die
-- 😄 ░P░Y░T░H░O░N░E░E░R░
+- 😄 ░P░Y░T░H░O░N░E░E░R
 - 👀-🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 
 ![alt text](https://github-readme-stats-naveen.vercel.app/api?username=Bala320&&show_icons=true&title_color=fafbfc&icon_color=28a745&text_color=fafbfc&bg_color=45,0366d6,c5f015)

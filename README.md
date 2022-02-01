@@ -1,11 +1,9 @@
-### Hi there 👋
+### Hi there👋 It's Bala here!!
 
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java, leetcode, and also Hackerrank
-- 🌱 I’m currently learning Java and python
-- 👯 I’m looking to collaborate on evertything
+-    Started working on comepetetive coding as well
+- 🌱 learning Android application development
 - 🤔 I’m looking for help with from you
 - 💬 Ask me about anything 
 - 📫 How to reach me: facebook

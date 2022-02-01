@@ -6,6 +6,7 @@
 - 🌱 learning Android application development, Web development
 - 👀-🅹🅰🆅🅰 🅳🅴🆅🅴🅻🅾🅿🅴🆁
 
+<hr>
 
 :mailbox: Connect me!
 

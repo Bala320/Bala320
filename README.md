@@ -45,6 +45,6 @@
 
 <h3 align="left">👉Profile visits:</h3>
   
-<h3 align="left">![visitors](https://visitor-badge.glitch.me/badge?page_id=Bala320.Bala320)</h3>
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Bala320.Bala320)
 
 

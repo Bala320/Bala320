@@ -14,7 +14,7 @@
 <a href="https://mail.google.com/mail/u/0/?fs=1&amp;tf=cm&amp;to=mspb.bala@gmail.com" target="blank"><img align="center" src="https://www.pngfind.com/pngs/m/542-5421481_com-mail-icon-vector-png-transparent-png.png" height="50" width="50" /></a>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bala320&show_icons=true&locale=en&layout=compact"  /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bala320&show_icons=true&locale=en&layout=compact" /></p><br>
 
 #### Profile Visits
 

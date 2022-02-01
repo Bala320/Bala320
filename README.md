@@ -43,8 +43,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bala320&show_icons=true&locale=en&layout=compact"></p>
 
 
-<h3 align="left">👉Profile visits:/h3>
+<h3 align="left">👉Profile visits:</h3>
   
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Bala320.Bala320)
+<h3 align="left">![visitors](https://visitor-badge.glitch.me/badge?page_id=Bala320.Bala320)</h3>
 
 

@@ -16,7 +16,7 @@
 
 👉 Portfolio:
 
-<a href="https://www.hackerrank.com/bala_008" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="45" width="45" /></a>
+<a href="https://www.hackerrank.com/bala_008" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="50" width="50" /></a>
 <a href="https://leetcode.com/Bala008/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" height="45" width="45" /></a>
 
 <hr>

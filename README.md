@@ -27,7 +27,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
   <hr>
   
-:mailbox: <h3 align="left">Connect me:</h3>
+<h3 align="left">:mailbox: Connect me:</h3>
 
 <a href="https://www.linkedin.com/in/bala-subramaniyan-45b8901a3/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="43" width="43" /></a>
 <a href="https://www.instagram.com/bala_subramaniyan__/" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2020/11/15/06/18/instagram-logo-5744708_960_720.png" height="60" width="60" /></a>

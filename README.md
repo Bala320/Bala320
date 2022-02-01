@@ -40,9 +40,9 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bala320&show_icons=true&locale=en&layout=compact" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bala320&show_icons=true&locale=en&layout=compact"></p>
 
-<hr>
+
 Profile Visits:
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Bala320.Bala320)
